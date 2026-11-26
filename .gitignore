@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 临时文件 / Temporary files
+*.bmp
+*.tmp
+~$*
+
+# WorkBuddy 内部数据 / WorkBuddy internal data
+.workbuddy-ai/
+
+# 本地备忘录 / Local notes
+备忘.txt
+
+# 旧版本备份 / Old backups
+旧/
